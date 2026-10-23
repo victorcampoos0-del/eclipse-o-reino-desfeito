@@ -1,0 +1,12 @@
+{
+  "name": "ECLIPSE — O Reino Desfeito",
+  "short_name": "ECLIPSE",
+  "description": "Uma experiência de ação gótica industrial.",
+  "lang": "pt-BR",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "#09090d",
+  "theme_color": "#101014"
+}
